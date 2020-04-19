@@ -14,6 +14,9 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
+  
+  - title: "MVA"
+    url: /mva/
     
   - title: "CV"
     url: /files/Resume_Louis_Fournier.pdf
