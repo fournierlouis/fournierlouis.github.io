@@ -57,19 +57,22 @@ Course related to various subjects of object recognition and computer vision. Fo
 
 ### Deep Learning in Practice
 
-TP2/5?
+Course offering in depth analysis of theory and practice of deep learning. Homeworks, some will may be posted.
 
 ### Kernel methods in machine learning
 
-(/)
+Interesting course about kernel methods. First we studied the theory and then a few implementations of kernel methods in classic machine learning algorithms. No personnal code.
 
 ### Modelisation in Neurosciences
 
-Project bayesian sampling
+Course on computational neurosciences. Good introduction to concepts less seen in other courses. For this course, I did a project on the papers "Network Plasticity as Bayesian Inference" and "Synaptic Sampling: A Bayesian Approach to Neural Network Plasticity and Rewiring"
+by David Kappel, Stefan Habenschuss, Robert Legenstein and Wolfgang Maass. I studied these papers and reimplemented one network, a Restricted Boltzmann Machine, with Synaptic Sampling.
+
+[Synaptic Sampling: A Bayesian Approach to Neural Network Plasticity and Rewiring](https://github.com/fournierlouis/synaptic_sampling_rbm)
 
 ### Sequential Learning
 
-TP implementation
+Good small course on sequential (online) learning. Focus on some simple algorithms and bandits. Exam and homework, code may be posted.
 
 ## Data/Modelisation courses
 
