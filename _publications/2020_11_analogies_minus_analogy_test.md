@@ -8,3 +8,5 @@ venue: 'CoNLL 2020 conference'
 paperurl: 'http://academicpages.github.io/files/analogies_minus_analogy_test.pdf'
 citation: 'Fournier, E. (2020). Analogies minus analogy test: measuring regularities in word embeddings. In Proceedings of the 24th Conference on Computational Natural Language Learning (pp. 365–375). Association for Computational Linguistics.'
 ---
+
+The code is available at: https://github.com/bootphon/measuring-regularities-in-word-embeddings
