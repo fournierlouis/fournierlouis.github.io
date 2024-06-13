@@ -2,96 +2,78 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Louis Fournier
     - name: Languages
-      value: English, German
+      value: French, English, Spanish, Japanese
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: MLIA, ISIR, Sorbonne Université, Paris
+      year: 2021-10 - 2024-11
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Local and distributed methods for deep learning optimization. Supervised by Edouard Oyallon.
+        - Teaching assistant in mathematics in licence at Sorbonne Université.
+        
+    - title: Master MVA (Maths, Vision, Learning)
+      institution: ENS Paris-Saclay, Paris
+      year: 2019 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - 1st semester. Object recognition, digital imaging, denoising. Deep learning, convex optimization, reinforcement learning, graphs in machine learning.
+        - 2nd semester. Speech and NLP, Sequential learning, Neuroscience, Deep learning in practice, Remote sensing, Audio analysis, Kernel methods.
+        
+    - title: Ingénieur Polytechnicien Curriculum
+      institution: École Polytechnique, Palaiseau
+      year: 2016 - 2020
+      description:
+        - Major in Image, Vision, Learning
+
+    - title: 18 months Ingénieur Curriculum
+      institution: Télécom Paris, Palaiseau
+      year: 2019 - 2021
+      description:
+        - AI, Computer Graphics. Joint curriculum with Master MVA.
+    
+    - title: Preparatory Classes for the Grandes Ecoles
+      institution: Lycée Henri Wallon and Sainte Geneviève
+      year: 2013 - 2016
+      description:
+        - MPSI - MPI* at Lycée Henri Wallon. MPI 5/2 at Lycée Privé Sainte Geneviève.
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research engineer
+      institution: MLIA, lip6, Sorbonne Université, Paris
+      year: 2021-06 - 09
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Research on simple learning architectures competing with convolutional networks, with dictionary of patches or kernel learning.
+
+    - title: NLP Research Internship
+      institution: INRIA CoML, Paris
+      year: 2020-03 - 09
       description:
-        - Description 1.
-        - Description 2.
+        - Study of the word analogy phenomenon in word embeddings. Issues of the analogy test and analogy demonstrations; studying new fairer metrics of linguistic regularities.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Computer Vision Research Internship
+      institution: Gleamer, Paris
+      year: 2019-03 - 05
       description:
+        - Improvement of an AI for bone fracture detection with multi-task learning and model explicability. Bone age regression and body part classification models. Unsupervised segmentation by study of the attention of a classifier. Conception of a clinical study.
+    
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Blockchain Development Internship
+      institution: Ippon USA, Washington D.C.
+      year: 2018-06 - 08
+      description:
+        - Development on Ethereum of a decentralized tax credit exchange market application.
+    
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Military Internship
+      institution: FFEAU, Abu Dhabi, UAE
+      year: 2016-12 - 2017-04
+      description:
+        - Work in the J2 Intelligence Office of the ALINDIEN General Staff, after training as a Land Army officer in the 4th Battalion of the Ecole Spéciale Militaire of Saint-Cyr.
