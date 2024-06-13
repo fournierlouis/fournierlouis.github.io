@@ -6,20 +6,18 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello!
+I am currently finishing my PhD and looking for new opportunities, such as postdoctoral research positions.
+My general interests reside in deep learning, optimization, computer vision, and natural language processing. During my PhD, I focused mainly on two fields of deep learning optimization: distributed learning and local learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My PhD was done at Sorbonne Université, in the Machine Learning & Deep Learning for Information Access ([MLIA](https://www.isir.upmc.fr/equipes/mlia/)) team of the Institut des systèmes intelligents et robotique (ISIR) laboratory. I worked under the supervision of Edouard Oyallon within the [ADONIS](https://adonis-research.github.io/) research project.
+I followed the Cursus Ingénieur of Ecole Polytechnique from 2016 to 2020. I was also enrolled from 2020 to 2021 in the engineering cursus of Télécom Paris and the Research Master MVA (Maths, Vision, Learning) of ENS Paris-Saclay. I did two research internships, at [Gleamer](https://www.gleamer.ai/) and at the [CoML](https://cognitive-ml.fr/) (Cognitive Machine Learning) team of INRIA Paris.
