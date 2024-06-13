@@ -72,8 +72,9 @@
       "studyType": "Master MVA (Maths, Vision, Learning)",
       "startDate": "2019",
       "endDate": "2020",
-      "courses": ["1st semester: Object recognition, digital imaging, denoising.
-Deep learning, convex optimization, reinforcement learning, graphs in machine learning.", "2nd semester: Speech and NLP, Sequential learning, Neuroscience, Deep learning in practice, Remote sensing, Audio analysis, Kernel methods."]
+      "courses": [
+        "1st semester: Object recognition, digital imaging, denoising. Deep learning, convex optimization, reinforcement learning, graphs in machine learning." , 
+        "2nd semester: Speech and NLP, Sequential learning, Neuroscience, Deep learning in practice, Remote sensing, Audio analysis, Kernel methods."]
     },
     
     {
