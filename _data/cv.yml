@@ -13,7 +13,7 @@
       institution: MLIA, ISIR, Sorbonne Université, Paris
       year: 2021-10 - 2024-11
       description:
-        - Local and distributed methods for deep learning optimization. Supervised by Edouard Oyallon.
+        - Parallelizable Training in Deep Learning Through Local and Distributed Approaches.
         - Teaching assistant in mathematics in licence at Sorbonne Université.
         
     - title: Master MVA (Maths, Vision, Learning)
@@ -52,7 +52,7 @@
         - Research on simple learning architectures competing with convolutional networks, with dictionary of patches or kernel learning.
 
     - title: NLP Research Internship
-      institution: INRIA CoML, Paris
+      institution: INRIA CoML (Cognitive Machine Learning), Paris
       year: 2020-03 - 09
       description:
         - Study of the word analogy phenomenon in word embeddings. Issues of the analogy test and analogy demonstrations; studying new fairer metrics of linguistic regularities.
