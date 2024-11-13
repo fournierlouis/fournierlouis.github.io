@@ -9,3 +9,12 @@ assets/plotly/demo.html
 lighthouse_results/**
 _posts/2015-10-20-math.md
 _bibliography/papers.bib
+_config.yml
+_data/cv.yml
+_pages/about.md
+_posts/2012-08-14-blog-post-1.md
+_posts/2013-08-14-blog-post-2.md
+_posts/2014-08-14-blog-post-3.md
+_posts/2015-08-14-blog-post-4.md
+_posts/2199-01-01-future-post.md
+assets/json/resume.json
